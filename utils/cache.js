@@ -1,0 +1,11 @@
+/**
+ *  {
+ *      deviceId: [timeDiff,....],
+ *      
+ * }
+ * 
+ */
+
+module.exports = {
+
+}

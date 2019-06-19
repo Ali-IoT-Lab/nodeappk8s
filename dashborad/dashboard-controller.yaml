@@ -21,7 +21,7 @@ spec:
       serviceAccountName: dashboard
       containers:
         - name: kubernetes-dashboard
-          image: harbor-001.jimmysong.io/library/kubernetes-dashboard-amd64:v1.6.3
+          image: registry.cn-qingdao.aliyuncs.com/haitao/kubernetes-dashboard-amd64:v1.7.0
           resources:
             limits:
               cpu: 100m

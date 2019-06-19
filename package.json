@@ -4,7 +4,7 @@
   "description": "LK/LP和LMQ性能测试框架",
   "main": "index.js",
   "scripts": {
-    "start": "node app.js",
+    "start": "node task.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "gaofeng",

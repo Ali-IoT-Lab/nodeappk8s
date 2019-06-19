@@ -14,6 +14,6 @@ COPY . /home/Service
 RUN npm install
 
 #暴露给主机的端口号
-EXPOSE 8888
+#EXPOSE 8888
 #执行npm start命令，启动Node工程
 CMD [ "npm", "start" ]

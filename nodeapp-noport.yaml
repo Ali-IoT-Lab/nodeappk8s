@@ -20,6 +20,6 @@ spec:
         k8s-app: nodeappk8s
     spec:
       containers:
-        - image: mangseng/nodeappk8s:v1.0.2
+        - image: mangseng/nodeappk8s:v1.0.3
           imagePullPolicy: Always
           name: nodeappk8s
